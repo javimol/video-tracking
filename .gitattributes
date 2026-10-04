@@ -1,0 +1,4 @@
+*.m text eol=lf
+*.mov binary
+*.gif binary
+*.png binary

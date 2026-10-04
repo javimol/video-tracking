@@ -1,0 +1,17 @@
+# MATLAB
+*.asv
+*.m~
+*.mat
+slprj/
+
+# Outputs
+*.avi
+/crops/
+/data/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Python
+__pycache__/
