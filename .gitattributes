@@ -2,3 +2,7 @@
 *.mov binary
 *.gif binary
 *.png binary
+
+# Language stats: this is a MATLAB project; the Python ports are helpers
+*.m linguist-language=MATLAB
+python/** linguist-detectable=false
